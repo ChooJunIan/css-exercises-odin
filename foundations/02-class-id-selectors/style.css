@@ -1,0 +1,19 @@
+.redClass {
+  background-color: rgb(248, 194, 194);
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.redClass.fontDiff {
+  font-size: 24px;
+}
+
+#secondID {
+  color: blue;
+  font-size: 36px;
+}
+
+#fourthID {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
